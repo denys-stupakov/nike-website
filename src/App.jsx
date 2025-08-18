@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import Nav from './sections/Nav'
+import Nav from './components/Nav'
 import Hero from './sections/Hero'
 import PopularProducts from './sections/PopularProducts'
 import SuperQuality from './sections/SuperQuality'
