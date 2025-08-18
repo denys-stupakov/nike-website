@@ -1,4 +1,9 @@
 @theme {
+    --color-primary: #ECEEFF;
+    --color-coral-red: #FF6452;
+    --color-slate-gray: #6D6D6D;
+    --color-pale-blue: #F5F6FF;
+    --color-white-400: rgba(255, 255, 255, 0.80);
     --font-palanquin: Palanquin, sans-serif;
-    --font-motserrat: Montserrat, sans-serif;
+    --font-montserrat: Montserrat, sans-serif;
 }
