@@ -34,7 +34,7 @@ const Nav = () => {
                             alt="Hamburger"
                             width={25}
                             height={25} 
-                            className="hidden max-lg:inline-block"
+                            className="hidden max-lg:block"
                         />
                     </div>
                 </nav>
