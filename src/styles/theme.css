@@ -6,4 +6,6 @@
     --color-white-400: rgba(255, 255, 255, 0.80);
     --font-palanquin: Palanquin, sans-serif;
     --font-montserrat: Montserrat, sans-serif;
+    --background-image-hero: url("../assets/images/collection-background.svg");
+    --background-image-card: url("../assets/images/thumbnail-background.svg");
 }
